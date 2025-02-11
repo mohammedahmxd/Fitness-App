@@ -1,0 +1,1 @@
+This Application allows a simple application for users that allow them to calculate their BMI, Body fat percentage and Their required calorific intake. It is very specific to a persons goals which is why alot of details are required by the user. But it will accurately allow users to succeed with their goals.
